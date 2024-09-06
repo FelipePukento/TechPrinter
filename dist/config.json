@@ -1,0 +1,21 @@
+{
+    "desgaste": 0.35,
+    "promedio_MxM": 0.22,
+    "porcentaje_material": 25,
+    "costo_por_minuto": 0.2,
+    "costo_operacional": 1000,
+    "IVA": 19,
+    "margen" : 30,
+    "desgaste_bajo": 0.30,
+    "promedio_MxM_bajo": 0.22,
+    "porcentaje_material_bajo": 20,
+    "costo_por_minuto_bajo": 0.2,
+    "desgaste_medio": 0.40,
+    "promedio_MxM_medio": 0.30,
+    "porcentaje_material_medio": 30,
+    "costo_por_minuto_medio": 0.5,
+    "desgaste_alto": 0.50,
+    "promedio_MxM_alto": 0.40,
+    "porcentaje_material_alto": 40,
+    "costo_por_minuto_alto": 0.8
+}
